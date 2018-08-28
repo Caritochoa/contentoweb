@@ -1,0 +1,63 @@
+
+#about {
+  background-color: #EC008C !important;*/
+}
+  
+#services {
+	background-color: #000000 !important;
+	margin-bottom: 50px;
+}  
+
+header.masthead {
+	background-attachment: fixed;
+
+}
+
+#boton_header{
+  font-weight: 700;
+  text-transform: uppercase;
+  border: 3px;
+  border-radius:0px;
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  background-color: transparent;
+  border-color: #ffffff;
+}
+
+#boton_header:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #ffffff !important;
+  color :#000000;
+}
+
+/* Clase hl correspone al highlight, titulos debajo de los íconos*/
+#hl {
+	background-color: #ffffff;
+	color: #000000;
+	text-align: left;
+}
+
+/*clase s_text corresponde al texto abajo de los íconos.*/
+
+#s_text {
+	text-align: left;	
+}
+
+#clients_title {
+	margin-top: 50px;
+}
+
+#portfolio-caja {
+   background: rgba(255, 18, 151, 0.9);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+
+}
+
+#portfolio-box-caption{
+   background: rgba(255, 18, 151, 0.9);
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+	
+
+}
